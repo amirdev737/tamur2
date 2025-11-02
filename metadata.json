@@ -1,0 +1,7 @@
+{
+  "name": "Tamur AI - Universal Unified Chat",
+  "description": "A unified chat platform that integrates text, image, video, audio, and web search results into a single conversational context. It provides reliable source citations, maintains chat history, and leverages multimodal AI models for a comprehensive user experience.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
